@@ -1,0 +1,11 @@
+:root{
+    --primary-font: 'LT Superior', sans-serif;
+    --transition: ease-in-out 0.3s;
+}
+
+//fonts
+
+$primary-font: var(--primary-font);
+
+// Other
+$transition: var(--transition);
