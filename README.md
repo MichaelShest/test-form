@@ -1,14 +1,17 @@
-# test-form
+Project by Shestakov Michael 
 
-This template should help get you started developing with Vue 3 in Vite.
+Время потраченое на выполнение: ~7 часов
+Что использовал:
+- Vue.js
+- TypeScript
+- SCSS
+- Pinia
+- UI Библиотеку PrimeVue.
+- LocalStorage для хранения данных
 
-## Recommended IDE Setup
+Задача сама по себе не была трудной для меня, но по собственной невнимательности в мелочах ловил небольшой, простите за выражение, тупняк.
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
 
-## Customize configuration
-
-See [Vite Configuration Reference](https://vite.dev/config/).
 
 ## Project Setup
 
